@@ -1,0 +1,16 @@
+./webrtc_perf_tests
+../../../src/webrtc/build/webrtc/src/resources/ConferenceMotion_1280_720_50.yuv
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/speech_mono_16kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/speech_mono_32_48kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/testfile32kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/difficult_photo_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/foreman_cif.yuv
+../../../src/webrtc/build/webrtc/src/resources/paris_qcif.yuv
+../../../src/webrtc/build/webrtc/src/resources/photo_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/presentation_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/voice_engine/audio_long16.pcm
+../../../src/webrtc/build/webrtc/src/resources/web_screenshot_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/voice_engine/audio_dtx16.wav
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_webrtc_perf_tests

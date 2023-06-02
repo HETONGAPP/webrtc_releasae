@@ -1,0 +1,5 @@
+./common_video_unittests
+../../../src/webrtc/build/webrtc/src/resources/foreman_cif.yuv
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_common_video_unittests

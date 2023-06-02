@@ -1,0 +1,7 @@
+./audio_codec_speed_tests
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/music_stereo_48kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/speech_mono_16kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/speech_mono_32_48kHz.pcm
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_audio_codec_speed_tests

@@ -1,0 +1,7 @@
+./tools_unittests
+../../../src/webrtc/build/webrtc/src/resources/foreman_128x96.yuv
+../../../src/webrtc/build/webrtc/src/resources/foreman_cif.yuv
+../../../src/webrtc/build/webrtc/src/resources/reference_less_video_test_file.y4m
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_tools_unittests

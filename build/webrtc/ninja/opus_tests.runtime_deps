@@ -1,0 +1,5 @@
+./opus_tests
+../../../src/webrtc/build/webrtc/src/third_party/opus/tests/resources/speech_mono_32_48kHz.pcm
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_opus_tests

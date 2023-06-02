@@ -1,0 +1,5 @@
+./audio_decoder_unittests
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/testfile32kHz.pcm
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_audio_decoder_unittests

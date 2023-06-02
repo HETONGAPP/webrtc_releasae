@@ -1,0 +1,10 @@
+./modules_tests
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/testfile16kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/testfile32kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/audio_coding/teststereo32kHz.pcm
+../../../src/webrtc/build/webrtc/src/resources/foreman_cif.yuv
+../../../src/webrtc/build/webrtc/src/resources/ConferenceMotion_1280_720_50.yuv
+../../../src/webrtc/build/webrtc/src/resources/FourPeople_1280x720_30.yuv
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_modules_tests

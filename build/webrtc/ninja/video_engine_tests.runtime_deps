@@ -1,0 +1,10 @@
+./video_engine_tests
+../../../src/webrtc/build/webrtc/src/resources/foreman_cif_short.yuv
+../../../src/webrtc/build/webrtc/src/resources/voice_engine/audio_long16.pcm
+../../../src/webrtc/build/webrtc/src/resources/difficult_photo_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/photo_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/presentation_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/resources/web_screenshot_1850_1110.yuv
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_video_engine_tests

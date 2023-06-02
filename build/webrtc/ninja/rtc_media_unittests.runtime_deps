@@ -1,0 +1,11 @@
+./rtc_media_unittests
+../../../src/webrtc/build/webrtc/src/resources/media/captured-320x240-2s-48.frames
+../../../src/webrtc/build/webrtc/src/resources/media/faces.1280x720_P420.yuv
+../../../src/webrtc/build/webrtc/src/resources/media/faces_I400.jpg
+../../../src/webrtc/build/webrtc/src/resources/media/faces_I411.jpg
+../../../src/webrtc/build/webrtc/src/resources/media/faces_I420.jpg
+../../../src/webrtc/build/webrtc/src/resources/media/faces_I422.jpg
+../../../src/webrtc/build/webrtc/src/resources/media/faces_I444.jpg
+../../../src/webrtc/build/webrtc/src/testing/test_env.py
+../../../src/webrtc/build/webrtc/src/.vpython
+bin/run_rtc_media_unittests
